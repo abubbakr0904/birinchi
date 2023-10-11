@@ -7,7 +7,6 @@ oyy = sana[1]
 for i in  oy.keys(): 
     g = " "
     if "0" in sana[0]:
-        print(g)
         g += sana[0][-1]
     else:
         g += sana[0]

@@ -1,0 +1,1 @@
+print("Assalom dunyo ")
